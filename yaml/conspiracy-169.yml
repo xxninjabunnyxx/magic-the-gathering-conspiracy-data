@@ -1,0 +1,112 @@
+---
+object: card
+id: c34b4335-5cd0-4c9d-979e-a4b99b6576a1
+oracle_id: 8f504855-f3df-4284-a189-e799bcddf620
+multiverse_ids:
+- 382286
+tcgplayer_id: 83224
+cardmarket_id: 267316
+name: Hydra Omnivore
+lang: en
+released_at: '2014-06-06'
+uri: https://api.scryfall.com/cards/c34b4335-5cd0-4c9d-979e-a4b99b6576a1
+scryfall_uri: https://scryfall.com/card/cns/169/hydra-omnivore?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.jpg?1562866865
+  normal: https://cards.scryfall.io/normal/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.jpg?1562866865
+  large: https://cards.scryfall.io/large/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.jpg?1562866865
+  png: https://cards.scryfall.io/png/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.png?1562866865
+  art_crop: https://cards.scryfall.io/art_crop/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.jpg?1562866865
+  border_crop: https://cards.scryfall.io/border_crop/front/c/3/c34b4335-5cd0-4c9d-979e-a4b99b6576a1.jpg?1562866865
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Creature — Hydra
+oracle_text: Whenever Hydra Omnivore deals combat damage to an opponent, it deals
+  that much damage to each other opponent.
+power: '8'
+toughness: '8'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set: cns
+set_name: Conspiracy
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cns?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c34b4335-5cd0-4c9d-979e-a4b99b6576a1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f504855-f3df-4284-a189-e799bcddf620&unique=prints
+collector_number: '169'
+digital: false
+rarity: mythic
+flavor_text: |-
+  "We should learn from the hydra. It never plays favorites; it devours everyone equally."
+  —Thrass, elder druid
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: c6d6108c-714b-4d72-a29f-783d96ae5c11
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3704
+prices:
+  usd: '2.99'
+  usd_foil: '23.40'
+  usd_etched: 
+  eur: '2.13'
+  eur_foil: '18.80'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382286
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hydra+Omnivore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hydra+Omnivore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hydra+Omnivore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/83224?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hydra+Omnivore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hydra+Omnivore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

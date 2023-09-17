@@ -1,0 +1,109 @@
+---
+object: card
+id: 5be2ca64-b8e4-4374-bdf5-041fae5df698
+oracle_id: 437b2dab-15e0-4b9a-a204-58622d37a3b3
+multiverse_ids:
+- 382265
+tcgplayer_id: 83190
+cardmarket_id: 267068
+name: Fact or Fiction
+lang: en
+released_at: '2014-06-06'
+uri: https://api.scryfall.com/cards/5be2ca64-b8e4-4374-bdf5-041fae5df698
+scryfall_uri: https://scryfall.com/card/cns/97/fact-or-fiction?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.jpg?1562865440
+  normal: https://cards.scryfall.io/normal/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.jpg?1562865440
+  large: https://cards.scryfall.io/large/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.jpg?1562865440
+  png: https://cards.scryfall.io/png/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.png?1562865440
+  art_crop: https://cards.scryfall.io/art_crop/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.jpg?1562865440
+  border_crop: https://cards.scryfall.io/border_crop/front/5/b/5be2ca64-b8e4-4374-bdf5-041fae5df698.jpg?1562865440
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Reveal the top five cards of your library. An opponent separates those
+  cards into two piles. Put one pile into your hand and the other into your graveyard.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set: cns
+set_name: Conspiracy
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cns?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5be2ca64-b8e4-4374-bdf5-041fae5df698/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A437b2dab-15e0-4b9a-a204-58622d37a3b3&unique=prints
+collector_number: '97'
+digital: false
+rarity: uncommon
+flavor_text: '"Try to pretend like you understand what''s important."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: da3f8453-b160-4cac-ab9d-b33921a537fe
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 225
+penny_rank: 61
+prices:
+  usd: '0.20'
+  usd_foil: '1.47'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.50'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382265
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fact+or+Fiction&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fact+or+Fiction&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fact+or+Fiction
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/83190?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fact+or+Fiction&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fact+or+Fiction&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

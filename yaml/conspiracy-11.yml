@@ -1,0 +1,122 @@
+---
+object: card
+id: 2b5f4072-47d6-46e2-affb-3affb908124e
+oracle_id: 7df49476-7b6c-4b5d-bede-463a7d2e0a58
+multiverse_ids:
+- 382360
+tcgplayer_id: 83309
+cardmarket_id: 267048
+name: Sentinel Dispatch
+lang: en
+released_at: '2014-06-06'
+uri: https://api.scryfall.com/cards/2b5f4072-47d6-46e2-affb-3affb908124e
+scryfall_uri: https://scryfall.com/card/cns/11/sentinel-dispatch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916
+  normal: https://cards.scryfall.io/normal/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916
+  large: https://cards.scryfall.io/large/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916
+  png: https://cards.scryfall.io/png/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.png?1681082916
+  art_crop: https://cards.scryfall.io/art_crop/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916
+  border_crop: https://cards.scryfall.io/border_crop/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916
+mana_cost: ''
+cmc: 0.0
+type_line: Conspiracy
+oracle_text: |-
+  (Start the game with this conspiracy face up in the command zone.)
+  At the beginning of the first upkeep, create a 1/1 colorless Construct artifact creature token with defender.
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 2b5f4072-47d6-46e2-affb-3affb908124e
+  component: combo_piece
+  name: Sentinel Dispatch
+  type_line: Conspiracy
+  uri: https://api.scryfall.com/cards/2b5f4072-47d6-46e2-affb-3affb908124e
+- object: related_card
+  id: 5f30e5e6-e9df-4ae2-9e40-ad2fee58fc29
+  component: token
+  name: Construct
+  type_line: Token Artifact Creature — Construct
+  uri: https://api.scryfall.com/cards/5f30e5e6-e9df-4ae2-9e40-ad2fee58fc29
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set: cns
+set_name: Conspiracy
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cns?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2b5f4072-47d6-46e2-affb-3affb908124e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7df49476-7b6c-4b5d-bede-463a7d2e0a58&unique=prints
+collector_number: '11'
+digital: false
+rarity: common
+watermark: conspiracy
+flavor_text: |-
+  "Unusual. Security also worth stealing."
+  —Dack Fayden
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adam Paquette
+artist_ids:
+- 89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2
+illustration_id: 30ac88b7-1f63-4d1f-a066-dc22b48ca47a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.10'
+  usd_foil: '0.36'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.05'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382360
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sentinel+Dispatch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sentinel+Dispatch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sentinel+Dispatch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/83309?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sentinel+Dispatch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sentinel+Dispatch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

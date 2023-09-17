@@ -1,0 +1,110 @@
+---
+object: card
+id: bbb77957-dcc2-4732-a766-091fcbbfaa9d
+oracle_id: b46efd59-eda7-4fe6-ace7-67ca8f6c088d
+multiverse_ids:
+- 382412
+tcgplayer_id: 83192
+cardmarket_id: 267297
+name: Wrap in Flames
+lang: en
+released_at: '2014-06-06'
+uri: https://api.scryfall.com/cards/bbb77957-dcc2-4732-a766-091fcbbfaa9d
+scryfall_uri: https://scryfall.com/card/cns/158/wrap-in-flames?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.jpg?1562866412
+  normal: https://cards.scryfall.io/normal/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.jpg?1562866412
+  large: https://cards.scryfall.io/large/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.jpg?1562866412
+  png: https://cards.scryfall.io/png/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.png?1562866412
+  art_crop: https://cards.scryfall.io/art_crop/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.jpg?1562866412
+  border_crop: https://cards.scryfall.io/border_crop/front/b/b/bbb77957-dcc2-4732-a766-091fcbbfaa9d.jpg?1562866412
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Wrap in Flames deals 1 damage to each of up to three target creatures.
+  Those creatures can't block this turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set: cns
+set_name: Conspiracy
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/7d4ebb59-a50b-45b8-8fff-ab70767819a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cns?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bbb77957-dcc2-4732-a766-091fcbbfaa9d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab46efd59-eda7-4fe6-ace7-67ca8f6c088d&unique=prints
+collector_number: '158'
+digital: false
+rarity: common
+flavor_text: |-
+  "Our pyromancer's flames may not have killed them, but they bought us the time we needed."
+  —*The War Diaries*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Véronique Meignaud
+artist_ids:
+- 41084244-a313-4d14-8123-db05855f9cfe
+illustration_id: c9e79264-cbe0-4eed-bc42-12c6486f1532
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18597
+prices:
+  usd: '0.06'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.19'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382412
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wrap+in+Flames&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wrap+in+Flames&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wrap+in+Flames
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/83192?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrap+in+Flames&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wrap+in+Flames&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
